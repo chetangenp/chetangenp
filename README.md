@@ -1,7 +1,8 @@
 # 👋 Hi, I'm C. Shrestha!
 🔭 Working on AI, ML, and Chatbot Projects  
 🌱 Brushing up on GitHub & AWS skills  
-💡 Check out my portfolio: <a href="http://cshrestha.com.np" target="_blank">cshrestha.com.np</a>
+💡 Check out my portfolio: [cshrestha.com.np](http://cshrestha.com.np)
+
 
 ## 📊 My GitHub Stats  
 ![C. Shrestha's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetangenp&show_icons=true&theme=tokyonight)  
